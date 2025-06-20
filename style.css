@@ -43,8 +43,8 @@ body {
 .email input,
 .senha input {
     border-radius: 20px;
-    height: 40vh;
-    width: 100vw;
+    height: 5vh;
+    width: 80vw;
     max-width: 280px;
     border: 1px solid #888;
     padding: 0 16px;
